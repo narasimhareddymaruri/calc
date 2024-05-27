@@ -44,7 +44,7 @@ function App(){
   return (
     <form>
 
-    <h1>Basic caluculator</h1>
+    <h1>Basic calculator</h1>
     <p ref={resultRef} >{result}</p>
     <input type="number" ref={inputRef} placeholder="enter input here"/>
     <div>
