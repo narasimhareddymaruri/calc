@@ -1,6 +1,6 @@
 
 checkout this project using this link.
-basiccaluculator.vercel.app/
+https://basiccaluculator.vercel.app/
 
 # Getting Started with Create React App
 
